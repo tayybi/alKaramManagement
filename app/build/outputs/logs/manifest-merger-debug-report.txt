@@ -1,0 +1,329 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:2:1-76:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\99059de5b36d4461d7888951b3b442c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\31c4f560ce2a0bf31f4dfe452e033065\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\773dc001088d93d36aa386ea5a61112b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\c81a8fd7a3b13d5926899ae256e82c92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\0e7702619e0314de39a48a1de2863918\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\3113d3b99ae8720c9e12d1bf439cac2f\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\5bfa8ebbc8decf0be07e378bc550eae2\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5c0c275587b7bd1e79731942f2fe2a23\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\29e0fa7bc0da7e3bf7cfaa51870a0fd5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\934fc92e06c7f5add1faaa51f78d1786\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\cb1c08bfd4529b7a0d25c37fde0ea6f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\78633ab7e5db300b3687299b265b26c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e0f7e2f9821dbfa9c003d0f1f745fd24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e0f9d3bf2f96f43f935c1cdbc4bd573e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\81fd1a1e40a2d3294cfa9ec65743c6ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c4cc9e088a98fff5751fe225737433f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cff887ec52328e4a7f830437ebce9db1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\54e534c265bf7989a75c9cdacf667afd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\898d2db830645c7760b93bc57d568cca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ada9cf93871505ad8b721a64c88029d4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\75d9511d2a1c06539872c1d998373a5a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4bb9038b290a25a4b1913957a01be03\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8b4f5074cc84d719275890df89ab9dfc\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:2:1-76:12
+	package
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:2:1-76:12
+		INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:2:1-76:12
+		INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:9:5-74:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\773dc001088d93d36aa386ea5a61112b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\773dc001088d93d36aa386ea5a61112b\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\0e7702619e0314de39a48a1de2863918\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\0e7702619e0314de39a48a1de2863918\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\3113d3b99ae8720c9e12d1bf439cac2f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\3113d3b99ae8720c9e12d1bf439cac2f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\5bfa8ebbc8decf0be07e378bc550eae2\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\5bfa8ebbc8decf0be07e378bc550eae2\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5c0c275587b7bd1e79731942f2fe2a23\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5c0c275587b7bd1e79731942f2fe2a23\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\29e0fa7bc0da7e3bf7cfaa51870a0fd5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\29e0fa7bc0da7e3bf7cfaa51870a0fd5\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:11:9-48
+	android:allowBackup
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.aktechzone.propertydeal.Authentications.Splash
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:15:9-20:20
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:15:19-57
+activity#com.aktechzone.propertydeal.Authentications.SignUp
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:21:9-23:50
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:22:13-51
+activity#com.aktechzone.propertydeal.Authentications.SignIn
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:24:19-57
+activity#com.aktechzone.propertydeal.activities.DrawerActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:27:13-58
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:26:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.aktechzone.propertydeal.activities.AddEmployeeActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:34:9-36:46
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:35:13-59
+activity#com.aktechzone.propertydeal.activities.ProfileMangerActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:37:9-70
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:37:19-67
+activity#com.aktechzone.propertydeal.activities.ProfileSellerPropertyActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:38:9-78
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:38:19-75
+activity#com.aktechzone.propertydeal.activities.AddSellerPropertyActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:39:9-74
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:39:19-71
+activity#com.aktechzone.propertydeal.activities.AddBuyerPropertyActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:40:9-73
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:40:19-70
+activity#com.aktechzone.propertydeal.activities.DrawerAgentActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:41:9-46:20
+	android:label
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:43:13-64
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:42:13-59
+activity#com.aktechzone.propertydeal.activities.RequestsActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:47:9-49:47
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:48:13-56
+activity#com.aktechzone.propertydeal.activities.SearchFilterActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:50:9-52:47
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:51:13-60
+activity#com.aktechzone.propertydeal.activities.EditBuyerActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:53:9-55:47
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:54:13-57
+activity#com.aktechzone.propertydeal.activities.EditSellerActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:56:9-58:47
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:57:13-58
+activity#com.aktechzone.propertydeal.activities.EditAgentMangerActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:59:9-61:47
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:60:13-63
+activity#com.aktechzone.propertydeal.activities.ProfileBuyerPropertyActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:62:9-64:47
+	android:theme
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:64:13-44
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:63:13-68
+activity#com.aktechzone.propertydeal.activities.EditBuyerActivity$AllAgentActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:65:9-83
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:65:19-80
+activity#com.aktechzone.propertydeal.activities.AllMangerActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:66:9-66
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:66:19-63
+activity#com.aktechzone.propertydeal.activities.CatagoryActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:67:9-65
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:67:19-62
+activity#com.aktechzone.propertydeal.activities.AllAgentActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:68:9-65
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:68:19-62
+activity#com.aktechzone.propertydeal.activities.ShowSearchData
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:69:9-63
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:69:19-60
+activity#com.aktechzone.propertydeal.Authentications.ForgotPassInput
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:70:9-69
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:70:19-66
+activity#com.aktechzone.propertydeal.Authentications.ConfirmationCodeActivity
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:71:9-78
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:71:19-75
+activity#com.aktechzone.propertydeal.Authentications.InputPasswordsForgot
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:72:9-74
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:72:19-71
+activity#com.aktechzone.propertydeal.Authentications.ChangePassword
+ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:73:9-77
+	android:name
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml:73:19-65
+uses-sdk
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\99059de5b36d4461d7888951b3b442c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\99059de5b36d4461d7888951b3b442c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\31c4f560ce2a0bf31f4dfe452e033065\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\31c4f560ce2a0bf31f4dfe452e033065\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\773dc001088d93d36aa386ea5a61112b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\773dc001088d93d36aa386ea5a61112b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\c81a8fd7a3b13d5926899ae256e82c92\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\c81a8fd7a3b13d5926899ae256e82c92\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\0e7702619e0314de39a48a1de2863918\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\0e7702619e0314de39a48a1de2863918\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\3113d3b99ae8720c9e12d1bf439cac2f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\3113d3b99ae8720c9e12d1bf439cac2f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\5bfa8ebbc8decf0be07e378bc550eae2\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\5bfa8ebbc8decf0be07e378bc550eae2\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5c0c275587b7bd1e79731942f2fe2a23\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5c0c275587b7bd1e79731942f2fe2a23\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\29e0fa7bc0da7e3bf7cfaa51870a0fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\29e0fa7bc0da7e3bf7cfaa51870a0fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\934fc92e06c7f5add1faaa51f78d1786\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\934fc92e06c7f5add1faaa51f78d1786\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\cb1c08bfd4529b7a0d25c37fde0ea6f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\cb1c08bfd4529b7a0d25c37fde0ea6f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\78633ab7e5db300b3687299b265b26c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\78633ab7e5db300b3687299b265b26c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e0f7e2f9821dbfa9c003d0f1f745fd24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e0f7e2f9821dbfa9c003d0f1f745fd24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e0f9d3bf2f96f43f935c1cdbc4bd573e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e0f9d3bf2f96f43f935c1cdbc4bd573e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\81fd1a1e40a2d3294cfa9ec65743c6ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\81fd1a1e40a2d3294cfa9ec65743c6ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c4cc9e088a98fff5751fe225737433f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c4cc9e088a98fff5751fe225737433f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cff887ec52328e4a7f830437ebce9db1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cff887ec52328e4a7f830437ebce9db1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\54e534c265bf7989a75c9cdacf667afd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\54e534c265bf7989a75c9cdacf667afd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\898d2db830645c7760b93bc57d568cca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\898d2db830645c7760b93bc57d568cca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ada9cf93871505ad8b721a64c88029d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ada9cf93871505ad8b721a64c88029d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\75d9511d2a1c06539872c1d998373a5a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\75d9511d2a1c06539872c1d998373a5a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4bb9038b290a25a4b1913957a01be03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4bb9038b290a25a4b1913957a01be03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8b4f5074cc84d719275890df89ab9dfc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8b4f5074cc84d719275890df89ab9dfc\AndroidManifest.xml:20:5-44
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+		ADDED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SH\AKtech\AlKaramManagement\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:31:9-35:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\673b1a046d7137df92b000f6f7e0f7b4\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\3113d3b99ae8720c9e12d1bf439cac2f\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\3113d3b99ae8720c9e12d1bf439cac2f\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\3113d3b99ae8720c9e12d1bf439cac2f\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\3113d3b99ae8720c9e12d1bf439cac2f\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\5bfa8ebbc8decf0be07e378bc550eae2\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\5bfa8ebbc8decf0be07e378bc550eae2\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\5bfa8ebbc8decf0be07e378bc550eae2\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\5bfa8ebbc8decf0be07e378bc550eae2\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\5bfa8ebbc8decf0be07e378bc550eae2\AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\29e0fa7bc0da7e3bf7cfaa51870a0fd5\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\29e0fa7bc0da7e3bf7cfaa51870a0fd5\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Tayyab Ali\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\29e0fa7bc0da7e3bf7cfaa51870a0fd5\AndroidManifest.xml:24:13-58

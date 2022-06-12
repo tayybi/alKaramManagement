@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Jan 12 19:17:37 PKT 2019
+1.base=E\:\\SH\\AKtech\\AlKaramManagement\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.path=lato_italic_black.ttf
+0.baseType=DIRECTORY
+2.base=E\:\\SH\\AKtech\\AlKaramManagement\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=lato_light.ttf
+0.set=ASSET
+0.base=E\:\\SH\\AKtech\\AlKaramManagement\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=classes.dex

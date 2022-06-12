@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/main_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/search_filter"
+            android:icon="@drawable/all_agent"
+            android:title="Search" />
+        <item
+            android:id="@+id/all_manger"
+            android:icon="@drawable/all_agent"
+            android:title="Manager" />
+        <item
+            android:id="@+id/all_agent"
+            android:icon="@drawable/all_agent"
+            android:title="Sale executive" />
+        <item
+            android:id="@+id/add_employee"
+            android:icon="@drawable/add_agent"
+            android:title="Add Employee" />
+        <item
+            android:id="@+id/add_property"
+            android:icon="@drawable/property"
+            android:title="Add Property" />
+        <item
+            android:id="@+id/all_catagory"
+            android:icon="@drawable/category"
+            android:title="Categories" />
+        <item
+            android:id="@+id/add_catagory"
+            android:icon="@drawable/category"
+            android:title="Add Category" />
+        <item
+            android:id="@+id/new_requests"
+            android:icon="@drawable/category"
+            android:title="New Requests" />
+        <item
+            android:id="@+id/changePasswordAdmin"
+            android:icon="@drawable/change_password"
+            android:title="Change Password" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+    </group>
+</menu>

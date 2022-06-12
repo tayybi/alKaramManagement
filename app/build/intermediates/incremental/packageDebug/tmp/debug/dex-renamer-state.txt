@@ -1,0 +1,4 @@
+#Sat Jan 12 19:17:36 PKT 2019
+base.0=E\:\\SH\\AKtech\\AlKaramManagement\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

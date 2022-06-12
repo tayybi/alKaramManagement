@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    android:background="#fff"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tvforheading"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Add Property"
+        android:textColor="@color/colorPrimaryDark"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/add_byuer"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/buttonstraight"
+            android:textColor="@color/colorAccent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="5dp"
+            android:text="buyer" />
+
+        <Button
+            android:id="@+id/add_seller"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/buttonstraight"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorAccent"
+            android:layout_marginStart="5dp"
+            android:text="seller" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listOfAllCatagories"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+    </ListView>
+
+</LinearLayout>
